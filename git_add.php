@@ -5,7 +5,7 @@ $add = '修正したファイルをインデックス（ステージング）に
 <html lang='ja'>
 <head>
 <meta charset='UTF-8'>
-<title>課題</title>
+<title>課題20</title>
 </head>
 <body>
 <?php
