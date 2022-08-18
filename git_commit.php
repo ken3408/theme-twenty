@@ -5,7 +5,7 @@ $commit = '追加・変更したファイルをローカルリポジトリに反
 <html lang='ja'>
 <head>
 <meta charset='UTF-8'>
-<title>課題20</title>
+<title>kadai20</title>
 </head>
 <body>
 <?php
