@@ -1,5 +1,5 @@
 <?php
-$commit = '';
+$commit = '追加・変更したファイルをローカルリポジトリに反映';
 ?>
 <!DOCTYPE html>
 <html lang='ja'>
